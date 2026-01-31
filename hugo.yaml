@@ -16,18 +16,20 @@ languages:
     title: "磨坊主的工坊"
     params:
       profileMode:
-        enabled: true
-        title: "磨坊主的工坊"
-        subtitle: "写作 · 文学 · 艺术 · 科学 · 技术原理"
+        enabled: false
+      homeInfoParams:
+        Title: "磨坊主的工坊"
+        Content: "写作 · 文学 · 艺术 · 科学 · 技术原理"
   en:
     languageName: "English"
     weight: 2
     title: "Miller's Atelier"
     params:
       profileMode:
-        enabled: true
-        title: "Miller's Atelier"
-        subtitle: "Writing · Literature · Art · Science · Principles"
+        enabled: false
+      homeInfoParams:
+        Title: "Miller's Atelier"
+        Content: "Writing · Literature · Art · Science · Principles"
 
 outputs:
   home:
